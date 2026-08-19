@@ -40,8 +40,8 @@
 
 ### 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Sharjilzaidi29&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sharjilzaidi29&layout=compact&theme=radical)
+![Your GitHub stats](https://github-readme-stats.athul.dev/api?username=Sharjilzaidi29&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.athul.dev/api/top-langs/?username=Sharjilzaidi29&layout=compact&theme=radical)
 
 ---
 
