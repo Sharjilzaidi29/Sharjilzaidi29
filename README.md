@@ -39,8 +39,8 @@
 ---
 
 ### 📊 GitHub Stats
-![](https://github-readme-stats.shion.dev/api?username=Sidra-Sheikh&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Sidra-Sheikh&theme=neon&hide_border=false)
+![](https://github-readme-stats.shion.dev/api?username=Sharjilzaidi29&theme=neon&hide_border=false&include_all_commits=true&count_private=true)
+
 ---
 
 ### 📌 Featured Projects
